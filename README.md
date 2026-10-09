@@ -1,26 +1,36 @@
 # 👋 Hi, I'm Anthony Vallenet!
 
-### 💻 Full Stack Developer | 🌴 Nice, France | 🚀 Passionate about Web and Mobile
+### 💻 Full Stack Developer | 🎓 MSc in Artificial Intelligence @ Epitech | 🌴 Nice, France
 
-## 🙋‍♂️ About Me
+🔎 **Looking for a work-study position (alternance) in AI and automation**: 2 weeks school / 6 to 8 weeks company.
 
 ```javascript
 const anthony = {
     location: "Nice 🌴",
-    education: "Master Expert en Systèmes d'Informations",
-    experience: "6+ years",
-    fields: ["Web", "Mobile", "Full Stack"],
+    experience: "7 years (work-study + freelance)",
+    now: "MSc Artificial Intelligence (Epitech, 2026-2028)",
+    fields: ["Web", "Mobile", "Infra", "Applied AI"],
     goal: "Lead Developer",
-    status: "Open to opportunities 💼"
+    status: "Looking for an alternance 💼"
 };
 ```
 
+## 🚀 What I've worked on
+
+Most of my projects are private (clients, employers), so here are the highlights:
+
+- **GEODE** (work-study): development and maintenance of 6 Unity mobile games on iOS/Android, **5M+ downloads**.
+- **Server rescue & hardening** (freelance): took over a compromised VPS in 48h, rebuilt the PostgreSQL database, brought it back online and secured the infrastructure.
+- **Le Carnet de Logement** (freelance): "Developer" module of a real-estate management SaaS (Vue.js, Laravel, Inertia).
+- **SENZU / TaxiLib** (work-study): lead mobile developer, Flutter app + Laravel API, managed a junior developer.
+- **Reinforcement learning** (side project): training an AI from scratch on the board game Wall Go, plus a self-hosted AI agent running on my own machine, to learn by doing.
+
 ## 🎓 Education
 
-🎯 **Master Expert en Systèmes d'Informations** - Spécialité Développement *(ISITECH - 2025)*  
-🎯 **Responsable de Projets Informatiques** *(ISITECH - 2023)*  
-🎯 **Concepteur Développeur d'Applications** *(INSTIC - 2022)*  
-🎯 **Développeur Web et Web Mobile** *(INSTIC & EDEN School - 2021)*
+🎯 **MSc Artificial Intelligence**, Epitech Nice, work-study *(2026-2028)*  
+🎯 **Master Expert en Systèmes d'Informations**, ISITECH Lyon *(2025)*  
+🎯 **Responsable de Projets Informatiques**, ISITECH Lyon *(2023)*  
+🎯 **Concepteur Développeur d'Applications**, INSTIC Lyon *(2022)*
 
 ## 💻 Tech Stack
 
